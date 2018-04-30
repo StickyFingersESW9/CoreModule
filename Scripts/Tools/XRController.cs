@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Ddd.CoreModule
+namespace Ddd.CoreModule.Tools
 {
 	public class XRController : MonoBehaviour
 	{
